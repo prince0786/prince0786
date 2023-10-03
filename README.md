@@ -11,10 +11,10 @@ Hello! 👋 I'm Prince Kumar, a recent graduate with a passion for Software Deve
 
 ## Skills
 
-- Programming language:- C++, Python, Java, JavaScript
-- Technology:-           HTML, CSS, RactJs, Bootstrap, Data Science, Machine Learning
-- Others:-               OOPs, DBMS, SQL
-- Familiar With:-        Git, Github
+- **Programming language**:- C++, Python, Java, JavaScript
+- **Technology**:-           HTML, CSS, RactJs, Bootstrap, Data Science, Machine Learning
+- **Others**:-               OOPs, DBMS, SQL
+- **Familiar With**:-        Git, Github
 
 ## Contact 📫
 
