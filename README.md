@@ -1,8 +1,8 @@
 # Prince Kumar
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40YourTwitterHandle-blue)](https://twitter.com/princebhan30)
-[![Instagram](https://img.shields.io/badge/Instagram-YourInstagramHandle-red)](https://www.instagram.com/singhprincebhan/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-YourLeetCodeHandle-brightgreen)](https://leetcode.com/Prince30/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TwitterHandle-blue)](https://twitter.com/princebhan30)
+[![Instagram](https://img.shields.io/badge/Instagram-InstagramHandle-red)](https://www.instagram.com/singhprincebhan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-LeetCodeHandle-brightgreen)](https://leetcode.com/Prince30/)
 
 ## About Me
 
@@ -19,7 +19,7 @@ Hello! 👋 I'm Prince Kumar, a recent graduate with a passion for Software Deve
 ## Contact 📫
 
 - Email: imprince1130@gmail.com.com
-- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/prince-kumar-6a73551a6/)
+- LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/prince-kumar-6a73551a6/)
 
 ---
 
