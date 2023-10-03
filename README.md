@@ -1,79 +1,29 @@
+# Prince Kumar
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40TwitterHandle-blue)](https://twitter.com/princebhan30)
+[![Instagram](https://img.shields.io/badge/Instagram-InstagramHandle-red)](https://www.instagram.com/singhprincebhan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-LeetCodeHandle-brightgreen)](https://leetcode.com/Prince30/)
+
+## About Me
+
+Hello! 👋 I'm Prince Kumar, a recent graduate with a passion for Software Development. I am excited to embark on my journey in this dynamic field and contribute my energy and fresh perspective.
 
 
+## Skills
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>README</title>
-    <style>
-        body {
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
+- Programming language:- C++, Python, Java, JavaScript
+- Technology:-           HTML, CSS, RactJs, Bootstrap, Data Science, Machine Learning
+- Others:-               OOPs, DBMS, SQL
+- Familiar With:-        Git, Github
 
-        .header {
-            background-color: #007acc;
-            color: #ffffff;
-            padding: 20px;
-            font-size: 24px;
-        }
+## Contact 📫
 
-        .social-links {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0;
-        }
+- Email: imprince1130@gmail.com
+- LinkedIn [Prince LinkedIn Profile](https://www.linkedin.com/in/prince-kumar-6a73551a6/)
 
-        .social-link {
-            margin: 0 10px;
-        }
+---
 
-        .social-link a {
-            text-decoration: none;
-            color: #007acc;
-            font-size: 18px;
-            transition: color 0.3s;
-        }
-
-        .social-link a:hover {
-            color: #ff6f61;
-        }
-
-        .content {
-            padding: 20px;
-        }
-
-        .animation {
-            animation: fadeIn 2s ease;
-        }
-
-        @keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        Hi, I'm Prince Kumar
-    </div>
-    <div class="social-links">
-        <div class="social-link">
-            <a href="https://twitter.com/YourTwitterHandle">Twitter</a>
-        </div>
-        <div class="social-link">
-            <a href="https://www.instagram.com/YourInstagramHandle">Instagram</a>
-        </div>
-        <div class="social-link">
-            <a href="https://leetcode.com/YourLeetCodeHandle">LeetCode</a>
-        </div>
-    </div>
-    <div class="content animation">
-        <!-- Your README content goes here -->
-        This is a beautiful README with animations and styling.
-    </div>
-</body>
-</html>
+<p align="center">
+  Made with ❤️
+</p>
 
